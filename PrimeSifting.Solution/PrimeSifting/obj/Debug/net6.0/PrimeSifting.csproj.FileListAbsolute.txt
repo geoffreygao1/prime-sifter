@@ -1,0 +1,15 @@
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/bin/Debug/net6.0/PrimeSifting.deps.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/bin/Debug/net6.0/PrimeSifting.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/bin/Debug/net6.0/PrimeSifting.pdb
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.csproj.AssemblyReference.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.AssemblyInfoInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.AssemblyInfo.cs
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.csproj.CoreCompileInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/refint/PrimeSifting.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.pdb
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/ref/PrimeSifting.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/bin/Debug/net6.0/PrimeSifting
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/bin/Debug/net6.0/PrimeSifting.runtimeconfig.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/prime-sifting/PrimeSifting.Solution/PrimeSifting/obj/Debug/net6.0/PrimeSifting.genruntimeconfig.cache
